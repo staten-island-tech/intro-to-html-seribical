@@ -1,0 +1,7 @@
+img{
+    transition-duration: 2s;
+}
+
+img:hover{
+    transform:scaleY(1000%);
+}
